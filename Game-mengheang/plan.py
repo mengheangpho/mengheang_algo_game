@@ -219,7 +219,7 @@ def Down(event):
 
 # end_game --------------------------------------------------------------------------------------------------------
 def end_game():
-    global array,endgame
+    global array
     # Clear the array ---
     array = []
     # Draw again ---
